@@ -1,0 +1,4 @@
+body{background-color: rgb(60, 168, 159); margin: 100px;}
+img{width: 200px;}
+div.Datos{height: 1000px; width: 850px; background-color: rgb(170, 128, 187); padding: 100px;border-style: dotted; border-color: blueviolet;border-radius: 50px; border-width: 5px;}
+div.Datos{font-family: Arial, Helvetica, sans-serif;}
